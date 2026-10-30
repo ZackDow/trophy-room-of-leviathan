@@ -1,0 +1,29 @@
+# Text: stored with LF line endings in the repo
+* text=auto
+*.md   text eol=lf
+*.py   text eol=lf
+*.sql  text eol=lf
+*.sh   text eol=lf
+*.c    text eol=lf
+*.h    text eol=lf
+*.svg  text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.csv  text eol=lf
+
+# Windows scripts keep CRLF
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+
+# Binary: never converted or diffed
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.pdf  binary
+*.zip  binary
+
+# Jupyter notebooks
+*.ipynb text eol=lf

@@ -1,0 +1,47 @@
+# Never published: university work, wargame passwords, challenge files, raw photos
+_private/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Uncompressed or source images (commit compressed exports only)
+*.heic
+*.raw
+*.psd
+*.tif
+*.tiff
+
+# Operating system
+Thumbs.db
+desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# Sync tools
+*.sync-conflict-*
+.stversions/
+.syncthing.*.tmp
+~syncthing~*.tmp
+
+# Editors and note apps
+.vscode/
+.idea/
+.obsidian/
+*.swp
+*~
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Build output
+build/
+dist/
+*.o
+*.exe
