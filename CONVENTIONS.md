@@ -50,4 +50,4 @@ Anything that must never be published goes in `_private/` at the repo root. Git 
 - [ ] No student ID, email, address or location, including in screenshots and image metadata
 - [ ] Images compressed
 - [ ] Front page and timeline updated with what was finished
-- [ ] Only finished work: no plans, no "next", no "in progress"
+- [ ] Only done and in progress: no plans, no "next", no disclaimers on public pages
