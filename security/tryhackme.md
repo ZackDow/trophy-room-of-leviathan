@@ -1,8 +1,8 @@
 # TryHackMe
 
-| Rooms completed | Started | Plan |
-| :-------------: | ------- | ---- |
-| **19** | 2026-10-18 | Free rooms only |
+| Rooms completed | Started |
+| :-------------: | ------- |
+| **19** | 2026-10-18 |
 
 ## Completed
 
