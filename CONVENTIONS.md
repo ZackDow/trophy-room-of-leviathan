@@ -15,7 +15,7 @@
 | `note` | Note summaries | `note: linear algebra, eigenvalues summary` |
 | `trophy` | Trophy pages | `trophy: add futures backtesting engine` |
 | `timeline` | Monthly entries | `timeline: close November` |
-| `docs` | README, roadmap, templates | `docs: tick CS50x on the roadmap` |
+| `docs` | README and templates | `docs: add CS50x to the front page` |
 | `chore` | Repo housekeeping | `chore: compress images in notes/` |
 
 - Lowercase after the colon, present tense, 72 characters or fewer.
@@ -49,4 +49,5 @@ Anything that must never be published goes in `_private/` at the repo root. Git 
 - [ ] No course solutions that the course's honour code asks me to keep private
 - [ ] No student ID, email, address or location, including in screenshots and image metadata
 - [ ] Images compressed
-- [ ] Counters, roadmap and timeline updated if something was finished
+- [ ] Front page and timeline updated with what was finished
+- [ ] Only finished work: no plans, no "next", no "in progress"

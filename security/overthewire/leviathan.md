@@ -1,10 +1,10 @@
 # OverTheWire: Leviathan
 
-| Levels cleared | Last updated | Status |
-| :------------: | ------------ | ------ |
-| **4 of 7** | 2026-10-18 | 🟨 Paused at level 4 |
+| Levels cleared | Last updated |
+| :------------: | ------------ |
+| **4** | 2026-10-18 |
 
-> Progress and lessons only. No passwords, no commands that solve a level.
+> Lessons only. No passwords, no commands that solve a level.
 
 ## Level log
 

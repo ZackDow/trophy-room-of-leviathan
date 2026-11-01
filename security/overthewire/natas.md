@@ -1,10 +1,10 @@
 # OverTheWire: Natas
 
-| Levels cleared | Started | Last updated | Status |
-| :------------: | ------- | ------------ | ------ |
-| **11** | 2026-10-21 | 2026-10-23 | 🟨 In progress, next is level 11 |
+| Levels cleared | Started | Last updated |
+| :------------: | ------- | ------------ |
+| **11** | 2026-10-21 | 2026-10-23 |
 
-> Progress and lessons only. No passwords, no requests that solve a level.
+> Lessons only. No passwords, no requests that solve a level.
 
 ## Level log
 

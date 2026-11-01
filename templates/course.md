@@ -1,6 +1,6 @@
 # {Course name}
 
-**{Provider}** · [Course page]({link}) · {⬜ / 🟨 / ✅} · {YYYY-MM-DD} → {YYYY-MM-DD}
+**{Provider}** · [Course page]({link}) · {YYYY-MM-DD} → {YYYY-MM-DD}
 
 | Time spent | Problem sets | Final project |
 | :--------: | :----------: | :-----------: |

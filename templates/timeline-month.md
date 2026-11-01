@@ -1,8 +1,8 @@
 # {Month YYYY}
 
-| Finished | In progress | Commits | Gaps |
-| :------: | :---------: | :-----: | ---- |
-| **{n}** | **{n}** | **{n}** | {e.g. exams, 3–20 Nov} |
+| Finished | Commits | Gaps |
+| :------: | :-----: | ---- |
+| **{n}** | **{n}** | {e.g. exams, 3–20 Nov} |
 
 <!-- Commits this month: git rev-list --count --since=YYYY-MM-01 --until=YYYY-MM-31 HEAD -->
 
@@ -19,8 +19,3 @@
 ## What got in the way
 
 {Honest reasons for any gap.}
-
-## Next month
-
-- [ ] {…}
-- [ ] {…}

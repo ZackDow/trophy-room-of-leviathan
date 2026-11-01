@@ -8,13 +8,13 @@ Capture-the-flag challenges, wargames and practice rooms: what I solved and what
 
 ## OverTheWire
 
-Progress and lessons only. No passwords, no full solutions.
+Lessons only. No passwords, no full solutions.
 
-| Game | Focus | Levels cleared | Status |
-| ---- | ----- | -------------: | :----: |
-| [Bandit](overthewire/bandit.md) | Linux basics | 33 of 33 | ✅ |
-| [Leviathan](overthewire/leviathan.md) | Abusing setuid programs | 4 of 7 | 🟨 |
-| [Natas](overthewire/natas.md) | Web security | 11 | 🟨 |
+| Game | Focus | Levels cleared |
+| ---- | ----- | -------------: |
+| [Bandit](overthewire/bandit.md) | Linux basics | All 33 |
+| [Natas](overthewire/natas.md) | Web security | 11 |
+| [Leviathan](overthewire/leviathan.md) | Abusing setuid programs | 4 |
 
 ## picoCTF
 
@@ -25,8 +25,4 @@ Progress and lessons only. No passwords, no full solutions.
 
 ## TryHackMe
 
-19 free rooms on Linux, networking, the web and Windows. [Full list](tryhackme.md).
-
-## Next
-
-PortSwigger Web Security Academy, after Leviathan and Natas.
+19 rooms on Linux, networking, the web and Windows. [Full list](tryhackme.md).

@@ -2,7 +2,7 @@
 
 **{One sentence: what it does and who it's for.}**
 
-[Repo]({link}) · [Demo]({link}) · {💡 Idea / 🟨 Building / ✅ Shipped}
+[Repo]({link}) · [Demo]({link})
 
 | Problem | Approach | Result |
 | ------- | -------- | ------ |

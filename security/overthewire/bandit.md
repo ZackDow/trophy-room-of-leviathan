@@ -2,9 +2,9 @@
 
 | Levels cleared | Finished |
 | :------------: | -------- |
-| **33 of 33** ✅ | Before 2026-10-18 |
+| **All 33** ✅ | Before 2026-10-18 |
 
-> Progress and lessons only. No passwords, no commands that solve a level.
+> Lessons only. No passwords, no commands that solve a level.
 
 ## Level log
 
