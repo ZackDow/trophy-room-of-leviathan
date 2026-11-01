@@ -15,7 +15,3 @@ Everything I finish outside my degree, committed when it's done.
 | ✅ [OverTheWire Leviathan](security/overthewire/leviathan.md) | 4 levels |
 | ✅ [picoCTF learning paths](security/README.md#picoctf) | 2 paths · 41 challenges |
 | ✅ [TryHackMe](security/tryhackme.md) | 19 rooms |
-
----
-
-No passwords, live solutions or assessed university work are published. Month by month: [timeline](timeline/).
