@@ -31,8 +31,4 @@ To build steady, visible evidence of two years of self-study toward a vacation p
 ## Next
 
 - [ ] Finish OverTheWire Leviathan and Natas
-- [ ] Write the first picoCTF writeup
-- [ ] Start Harvard CS50x
-- [ ] Solve and log the first LeetCode problem
-- [ ] Write up the first handwritten note
-- [ ] Check whether the Capture the Narrative rules allow publishing a bot-detection project
+- [ ] PortSwigger Web Security Academy

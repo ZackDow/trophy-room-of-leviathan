@@ -18,16 +18,10 @@ Progress and lessons only. No passwords, no full solutions.
 
 ## picoCTF
 
-Writeups for past competitions and the picoGym practice gym only.
-
 | Learning path | Modules | Challenges | Completed |
 | ------------- | :-----: | :--------: | --------- |
 | The Beginner's Guide to the Challenge Library | 28 of 28 | 24 | 2026-10-21 |
 | General Skills in CTF's | 20 of 20 | 17 | 2026-10-21 |
-
-| Challenge | Category | Event | Points | Solved |
-| --------- | -------- | ----- | -----: | ------ |
-| *First writeup coming soon* | | | | |
 
 ## TryHackMe
 
@@ -35,27 +29,4 @@ Writeups for past competitions and the picoGym practice gym only.
 
 ## Next
 
-| Step | Status |
-| ---- | :----: |
-| Finish Leviathan, levels 4 → 7 | 🟨 |
-| Finish Natas, from level 11 | 🟨 |
-| PortSwigger Web Security Academy: Apprentice labs | ⬜ |
-| picoCTF: one challenge in every category, with writeups | ⬜ |
-| pwn.college: Linux Luminarium, then Program Security | ⬜ |
-| Hack The Box: Starting Point, then a first Easy machine | ⬜ |
-
-Only systems I own or have permission to test.
-
-## Layout
-
-```
-security/
-├── picoctf/
-│   └── <event or picogym>/
-│       └── <challenge>.md      ← from templates/challenge-writeup.md
-├── overthewire/
-│   └── <game>.md               ← from templates/wargame-progress.md
-└── tryhackme.md
-```
-
-Downloaded challenge files stay in `_private/`, never in the repo.
+PortSwigger Web Security Academy, after Leviathan and Natas.

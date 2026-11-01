@@ -27,12 +27,3 @@
 | Careers in Cyber | Easy | 2026-10-18 |
 | Learning Cyber Security | Easy | 2026-10-18 |
 | Starting Out In Cyber Sec | Easy | 2026-10-18 |
-
-## Up next
-
-- [ ] OSI Model (in progress since 2026-10-19)
-- [ ] Packets & Frames
-- [ ] How Websites Work
-- [ ] Windows Fundamentals 2
-- [ ] CyberChef: The Basics
-- [ ] Python Basics
