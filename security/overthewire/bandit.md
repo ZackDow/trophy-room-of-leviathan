@@ -4,8 +4,6 @@
 | :------------: | -------- |
 | **All 33** ✅ | Before 2026-10-18 |
 
-> Lessons only. No passwords, no commands that solve a level.
-
 ## Level log
 
 | Levels | Concept | Lesson in one line |

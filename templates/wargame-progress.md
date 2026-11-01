@@ -4,8 +4,6 @@
 | :------------: | ------- | ------------ |
 | {n} | {YYYY-MM-DD} | {YYYY-MM-DD} |
 
-> Progress and lessons only. No passwords, no commands that solve a level.
-
 ## Level log
 
 | Level | Date | Concept | Lesson in one line |

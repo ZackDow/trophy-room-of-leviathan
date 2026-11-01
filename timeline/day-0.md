@@ -6,7 +6,7 @@
 
 ## Where I'm starting
 
-Master of Information Technology (Applied AI) student, with a few weeks of security practice already behind me. That work was logged in private notes before this repo existed; it is imported here with its original dates and without any passwords.
+Master of Information Technology (Applied AI) student, with a few weeks of security practice already behind me.
 
 ## Before Day 0
 
@@ -14,7 +14,7 @@ Master of Information Technology (Applied AI) student, with a few weeks of secur
 | ---- | ---- | ---- | ---- |
 | Before 2026-10-18 | Security | OverTheWire Bandit, all 33 levels | [Bandit](../security/overthewire/bandit.md) |
 | 2026-10-18 | Security | OverTheWire Leviathan, levels 0 → 4 | [Leviathan](../security/overthewire/leviathan.md) |
-| 2026-10-18 | Security | TryHackMe, 19 free rooms | [TryHackMe](../security/tryhackme.md) |
+| 2026-10-18 | Security | TryHackMe, 19 rooms | [TryHackMe](../security/tryhackme.md) |
 | 2026-10-21 | Security | picoCTF, two learning paths (41 challenges) | [Security](../security/README.md) |
 | 2026-10-21 → 23 | Security | OverTheWire Natas, levels 0 → 11 | [Natas](../security/overthewire/natas.md) |
 

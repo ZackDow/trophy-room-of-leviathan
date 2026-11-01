@@ -2,9 +2,7 @@
 
 | Levels cleared | Last updated |
 | :------------: | ------------ |
-| **4** | 2026-10-18 |
-
-> Lessons only. No passwords, no commands that solve a level.
+| **4 of 7** | 2026-10-18 |
 
 ## Level log
 

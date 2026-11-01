@@ -4,8 +4,6 @@
 | :------------: | ------- | ------------ |
 | **11** | 2026-10-21 | 2026-10-23 |
 
-> Lessons only. No passwords, no requests that solve a level.
-
 ## Level log
 
 | Level | Date | Concept | Lesson in one line |

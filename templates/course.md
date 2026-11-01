@@ -28,4 +28,4 @@
 
 ## Evidence
 
-{Links to my own practice code or project. If the course's honour code asks students not to publish solutions (CS50 does), describe what I built instead of linking code.}
+{Links to my own practice code or project.}

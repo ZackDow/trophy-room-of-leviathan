@@ -4,8 +4,6 @@
 | ----- | -------- | -----: | ------ |
 | {picoCTF YYYY / picoGym} | {Web / Crypto / Forensics / Reverse engineering / Binary exploitation / General} | {n} | {YYYY-MM-DD} |
 
-> Allowed to publish: {past competition / practice gym}
-
 ## The challenge
 
 {Two or three sentences in my own words: what was given and what was asked.}

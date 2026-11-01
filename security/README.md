@@ -8,13 +8,11 @@ Capture-the-flag challenges, wargames and practice rooms: what I solved and what
 
 ## OverTheWire
 
-Lessons only. No passwords, no full solutions.
-
 | Game | Focus | Levels cleared |
 | ---- | ----- | -------------: |
 | [Bandit](overthewire/bandit.md) | Linux basics | All 33 |
 | [Natas](overthewire/natas.md) | Web security | 11 |
-| [Leviathan](overthewire/leviathan.md) | Abusing setuid programs | 4 |
+| [Leviathan](overthewire/leviathan.md) | Abusing setuid programs | 4 of 7 |
 
 ## picoCTF
 
