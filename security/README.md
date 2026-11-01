@@ -4,7 +4,7 @@ Capture-the-flag challenges, wargames and practice rooms: what I solved and what
 
 | OverTheWire levels | CyLab challenges | TryHackMe rooms |
 | :----------------: | :--------------: | :-------------: |
-| **48** | **38** | **19** |
+| **48** | **39** | **19** |
 
 ## OverTheWire
 
@@ -20,11 +20,11 @@ Carnegie Mellon's platform, formerly picoCTF.
 
 | Easy | Medium | Hard |
 | :--: | :----: | :--: |
-| **30** | **8** | **0** |
+| **31** | **8** | **0** |
 
 | Category | Solved |
 | -------- | -----: |
-| General Skills | 26 |
+| General Skills | 27 |
 | Reverse Engineering | 7 |
 | Web Exploitation | 2 |
 | Binary Exploitation | 1 |
@@ -33,9 +33,12 @@ Carnegie Mellon's platform, formerly picoCTF.
 
 | Learning path | Modules | |
 | ------------- | :-----: | :-: |
+| The Beginner's Guide to the Challenge Library | 28 of 28 | ✅ |
 | General Skills in CTF's | 20 of 20 | ✅ |
-| Python in CTF's | 5 of 6 | 🟨 |
+| Python in CTF's | 6 of 6 | ✅ |
+| PW Crack Series | 5 of 5 | ✅ |
 | Low Level Binary Intro | 22 of 46 | 🟨 |
+| Forensics in CTF's | 1 of 17 | 🟨 |
 | Vault Door Series | 1 of 8 | 🟨 |
 
 ## TryHackMe
