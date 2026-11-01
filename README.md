@@ -11,7 +11,7 @@ Everything I finish outside my degree, committed when it's done.
 | | Result |
 | --- | --- |
 | ✅ [OverTheWire Bandit](security/overthewire/bandit.md) | All 33 levels |
-| ✅ [picoCTF learning paths](security/README.md#picoctf) | 2 paths · 41 challenges |
+| ✅ [CyLab Security Academy](security/README.md#cylab-security-academy) (picoCTF) | 38 challenges · General Skills path |
 | ✅ [TryHackMe](security/tryhackme.md) | 19 rooms |
 
 ## In progress
@@ -20,3 +20,6 @@ Everything I finish outside my degree, committed when it's done.
 | --- | --- |
 | 🟨 [OverTheWire Leviathan](security/overthewire/leviathan.md) | `██████░░░░` 4 of 7 levels |
 | 🟨 [OverTheWire Natas](security/overthewire/natas.md) | 11 levels |
+| 🟨 [CyLab: Python in CTF's](security/README.md#cylab-security-academy) | `████████░░` 5 of 6 modules |
+| 🟨 [CyLab: Low Level Binary Intro](security/README.md#cylab-security-academy) | `█████░░░░░` 22 of 46 modules |
+| 🟨 [CyLab: Vault Door Series](security/README.md#cylab-security-academy) | `█░░░░░░░░░` 1 of 8 modules |

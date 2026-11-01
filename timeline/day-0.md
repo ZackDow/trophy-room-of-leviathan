@@ -15,7 +15,7 @@ Master of Information Technology (Applied AI) student, with a few weeks of secur
 | Before 2026-10-18 | Security | OverTheWire Bandit, all 33 levels | [Bandit](../security/overthewire/bandit.md) |
 | 2026-10-18 | Security | OverTheWire Leviathan, levels 0 → 4 | [Leviathan](../security/overthewire/leviathan.md) |
 | 2026-10-18 | Security | TryHackMe, 19 rooms | [TryHackMe](../security/tryhackme.md) |
-| 2026-10-21 | Security | picoCTF, two learning paths (41 challenges) | [Security](../security/README.md) |
+| 2026-10-21 | Security | picoCTF, General Skills learning path | [Security](../security/README.md#cylab-security-academy) |
 | 2026-10-21 → 23 | Security | OverTheWire Natas, levels 0 → 11 | [Natas](../security/overthewire/natas.md) |
 
 ## Day 0
