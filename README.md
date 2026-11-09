@@ -19,6 +19,7 @@ Everything I finish outside my degree, committed when it's done.
 | | Progress |
 | --- | --- |
 | 🟨 [MIT 18.06 Linear Algebra](courses/mit-18-06-linear-algebra.md) | `█████░░░░░` Lecture 19 of 36 |
+| 🟨 [LeetCode SQL 50](leetcode/sql-50.md) | `██░░░░░░░░` 12 of 50 problems |
 | 🟨 [OverTheWire Leviathan](security/overthewire/leviathan.md) | `██████░░░░` 4 of 7 levels |
 | 🟨 [OverTheWire Natas](security/overthewire/natas.md) | 11 levels |
 | 🟨 [CyLab: Low Level Binary Intro](security/README.md#cylab-security-academy) | `█████░░░░░` 22 of 46 modules |
