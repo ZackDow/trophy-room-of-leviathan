@@ -4,7 +4,7 @@
 
 | Topic | Current topic | Last updated |
 | :---: | ------------- | ------------ |
-| `██░░░░░░░░` **3 of 17** | JSON Introduction | 2026-11-23 |
+| `██░░░░░░░░` **4 of 17** | Relational Algebra | 2026-11-27 |
 
 ## Topics completed
 
@@ -13,3 +13,4 @@
 | 1 | Introduction |
 | 2 | Relational Model |
 | 3 | XML |
+| 4 | JSON |
